@@ -1,12 +1,28 @@
 {
   "expo": {
-    "name": "testproject",
-    "slug": "testproject",
+    "name": "Journaling App",
+    "slug": "journaling_app",
     "version": "1.0.0",
     "platforms": [
       "ios",
       "android",
       "web"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5ca826bf-39e3-4f4c-9e5d-30254df1e865"
+      }
+    },
+    "owner": "vysomariia",
+    "ios": {
+      "bundleIdentifier": "com.vysomariia.testproject"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5ca826bf-39e3-4f4c-9e5d-30254df1e865"
+    },
+    "android": {}
   }
 }
