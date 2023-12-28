@@ -1,10 +1,35 @@
 {
   "dependencies": {
-    "expo": "^49.0.3",
+    "@craftzdog/react-native-buffer": "^6.0.5",
+    "@google-cloud/storage": "^7.2.0",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/stack": "^6.3.18",
+    "@root/asn1": "^1.0.0",
+    "axios": "^1.5.1",
+    "cli": "^1.0.1",
+    "expo": "^49.0.16",
+    "expo-av": "^13.6.0",
+    "expo-constants": "^14.4.2",
+    "expo-file-system": "^15.6.0",
+    "expo-jwt": "^1.6.3",
+    "expo-permissions": "^14.4.0",
+    "flask": "^0.2.10",
+    "g": "^2.0.1",
+    "google-auth-library": "^9.1.0",
+    "google-cloud-storage": "^2.0.2",
+    "googleapis": "^127.0.0",
+    "js-sha256": "^0.10.1",
+    "jsonwebtoken": "^9.0.2",
+    "jsrsasign": "^10.8.6",
+    "jsrsasign-util": "^1.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.72.3",
-    "react-native-web": "~0.19.6"
+    "react-native-audio-transcoder": "^0.3.0",
+    "react-native-rsa-native": "^2.0.5",
+    "react-native-stopwatch": "^0.0.4",
+    "react-native-web": "~0.19.6",
+    "expo-updates": "~0.18.16"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3"
