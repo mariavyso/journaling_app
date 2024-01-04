@@ -1,4 +1,5 @@
 # Journaling App
+![GitHub top language](https://img.shields.io/github/languages/top/mariavyso/journaling_app?style=plastic)
 
 
 [The story behind this project.](https://www.vysochinam.com/posts/journaling_app/)
